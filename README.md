@@ -34,8 +34,8 @@
 
 ## ⚙️ Funcionalidades
 
-- [ ] Colocando as marcas (X e O)
-- [ ] Adicionando mudança de turnos
+- [x] Colocando as marcas (X e O)
+- [x] Adicionando mudança de turnos
 - [ ] Verificando vitória
 - [ ] Criando reinício do jogo
 - [ ] Verificando empate
@@ -56,9 +56,9 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:CalebeFelipe/orcamento_pessoal.git
+$ git clone git@github.com:CalebeFelipe/tic-tac-toe.git
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd orcamento_pessoal
+$ cd tic-tac-toe
 # Vá para a pasta da aplicação Front End
 $ cd web
 # Instale as dependências
