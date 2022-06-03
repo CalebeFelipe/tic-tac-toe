@@ -51,12 +51,6 @@ body {
 } 
 
 .cell:nth-child(1), 
-.cell:nth-child(2), 
-.cell:nth-child(3) {
-    border-top: none;
-} 
-
-.cell:nth-child(1), 
 .cell:nth-child(4), 
 .cell:nth-child(7) {
     border-left: none;
@@ -154,4 +148,8 @@ body {
 .winningMessage p {
     color: white;
     font-size: 5rem;
+}
+
+.show-message-winning {
+    display: flex;
 }
