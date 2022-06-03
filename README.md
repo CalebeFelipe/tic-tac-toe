@@ -9,7 +9,7 @@
 </h3>
 
 <h4 align="center">
-	🚧 Em andamento 🚀 🚧
+	🚧 Concluído 🚀 🚧
 </h4>
 
 
@@ -20,11 +20,9 @@
   <a href="#-tecnologias">Tecnologias</a> 
 </p>
 <br />
-<!--<img src="assets/cadastro-despesa.gif" alt="animação da interação com página">-->
+<img align="center" src="assets/jogando.gif" alt="animação da interação com página">
 
-<!-- O projeto chamado Orçamento Pessoal é um sistema de registro de despesas.-->
-
-<!--Confira a aplicação: https://cadastro-despesas.netlify.app <br>-->
+Confira a aplicação: https://jogo-tictactoe.netlify.app <br>
 
 ## 💻 Sobre o projeto
 
