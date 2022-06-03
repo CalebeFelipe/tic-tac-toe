@@ -37,8 +37,8 @@
 - [x] Colocando as marcas (X e O)
 - [x] Adicionando mudança de turnos
 - [x] Verificando vitória
-- [ ] Criando reinício do jogo
-- [ ] Verificando empate
+- [x] Criando reinício do jogo
+- [x] Verificando empate
 
 
 ---
